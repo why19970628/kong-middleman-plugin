@@ -1,0 +1,17 @@
+.DS_Store
+**/.DS_Store
+__pycache__
+**/__pycache__
+venv/
+.vscode/
+**/.vscode/
+.idea/
+.idea/workspace.xml
+storage/
+storage/std.log
+*.log
+storage/logs/std.log
+config/
+storage/
+*.log
+*.json
